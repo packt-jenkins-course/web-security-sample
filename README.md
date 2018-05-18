@@ -1,6 +1,5 @@
 # Continuous Security Demo
 
-[![Build Status](https://travis-ci.org/holisticon/web-security-sample.svg?branch=master)](https://travis-ci.org/holisticon/web-security-sample) 
 [![Build Status](https://jenkins.holisticon.de/buildStatus/icon?job=Public/ContinousSecurity_Demo/master)](https://jenkins.holisticon.de/blue/organizations/jenkins/Public%2FContinousSecurity_Demo/branches/)
 ## Development-Setup
 
